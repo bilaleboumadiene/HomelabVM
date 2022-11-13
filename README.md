@@ -1,12 +1,23 @@
 # Installation et configuration d'un environnement de test virtuel
 ****************
+```
+Prérequis :
+
+Oracle VM Virtualbox installé sur la machine hôte
+
 OS utilisés :
 
 Serveur : Windows Server 2012 R2
 
-Client Windows : Windows 7 Professionnel SP1  
+Client Windows : Windows 7 Professionnel SP1
 
-Client Linux : Ubuntu 20.04  
+Client Linux : Ubuntu 20.04
+```
+# Installation via l'import du fichier .ova
+
+1 . Téléchargez le fichier .ova via le lien https://www.dropbox.com/s/az76yxzenp6epc1/Homelab%20virtuel.ova?dl=0
+
+2 . Dans Oracle VM Virtualbox, cliquez sur **Fichier** puis **Importer un appareil virtuel**, choisissez le fichier précedemment téléchargé, cliquez sur **Suivant**, et suivez l'assistant d'importation
 
 &nbsp;
 &nbsp;
