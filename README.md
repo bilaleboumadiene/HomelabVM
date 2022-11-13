@@ -1,4 +1,5 @@
 # Installation et configuration d'un environnement de test virtuel
+****************
 OS utilisés :
 
 Serveur : Windows Server 2012 R2
@@ -12,7 +13,7 @@ Client Linux : Ubuntu 20.04
 &nbsp;
 &nbsp;
 
-# Note : Créer une VM sur Oracle VM Virtualbox
+## Note : Créer une VM sur Oracle VM Virtualbox
 
 1 . Dans la fenêtre d'Oracle VM, cliquez sur **Nouvelle**
 
@@ -34,7 +35,9 @@ Une fois l'installation de l'OS terminée, pensez à retirer l'ISO de la VM en s
 
 Image disques disponibles sur  : https://lecrabeinfo.net/telecharger/cat/systemes-dexploitation
 
-<div style="page-break-after: always"></div>  
+*******
+<br>
+<br>
 
 # Installation et configuration du Serveur Windows 2012 R2
 &nbsp;
