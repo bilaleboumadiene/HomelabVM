@@ -13,6 +13,17 @@ Client Windows : Windows 7 Professionnel SP1
 
 Client Linux : Ubuntu 20.04
 ```
+```
+Logins : 
+
+Administrateur
+Client-PC/Client
+satellite               Admin25
+jean@test.local 
+pierre@test.local
+
+Domaine : test.local
+```
 # Installation via l'import du fichier .ova
 
 1 . Téléchargez le fichier .ova via le lien https://www.dropbox.com/s/az76yxzenp6epc1/Homelab%20virtuel.ova?dl=0
